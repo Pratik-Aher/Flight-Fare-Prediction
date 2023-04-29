@@ -5,6 +5,10 @@
 * Created a tool that estimates Flight Prices to help users look for best prices when booking flight tickets.
 * Engineered features from the Departure Time, Date of Journey, to quantify the data and make it more understandable.
 
+## Project Members:
+- Aakash Dabhade
+- Pratik Aher
+- Prathamesh Koli
 
 
 

@@ -115,4 +115,34 @@ We needed to clean it up so that it was usable for our model.We made the followi
 
 ## Model Building
 
-First, We transformed the categorical var
+**Fitting Model Using Random Forest**<br>
+
+Split data into train and test so as to predict w.r.t. 'X_test'.<br>
+
+If needed do scaling of data a) scaling is not done in Random Forest<br>
+
+Import the model(which suits the data most or gives better results) Fit training data into it<br>
+
+Predict w.r.t. 'X_test' (compare with 'Y_test')<br>
+
+<br><br><br>
+
+## Regression models score
+MAE: 1176.8211626134876 <br>
+MSE: 4372706.25598775 <br>
+RMSE: 2091.1016847556098 <br>
+
+
+
+## Contact
+
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/pratik-aher01/" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
+   
+    <a href="aherpratik00@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+   
+    
+</p> 

@@ -88,8 +88,6 @@ This would create a serialized version of our model into a file model.pkl
 
 By default, flask will run on port 5000.
 
-3.Navigate to URL http://127.0.0.1:8000/ (This local server will be assigned after you run the unicorn command)
-
 <br><br>
 
 ## Cleaning the Data

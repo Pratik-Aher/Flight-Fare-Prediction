@@ -127,8 +127,8 @@ RMSE: 2091.1016847556098 <br>
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
 <p align="center">
-    <a href="https://www.linkedin.com/in/pratik-aher01/" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
-   
+<a href="mailto:aherpratik00@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
+<a href="https://www.linkedin.com/in/pratik-aher01/" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
     
    
     

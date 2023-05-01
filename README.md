@@ -9,12 +9,16 @@
 - Aakash Dabhade
 - Pratik Aher
 - Prathamesh Koli
+<br><br>
+
+##  Screenshots
+
+<img src = '/assets/1.png'>
+<img src = '/assets/2.png'>
 
 
 
-
-
-
+<br><br>
 ## Additional Information 
 
 
@@ -57,7 +61,7 @@ Flight Ticket Prices Dataset = [ Dataset](https://www.kaggle.com/datasets/nikhil
    * Logging Framework
    * Deployment
 
-
+<br><br>
 ## Deployment
 
 The code is written in Python 3.6.10. If you don't have Python installed, you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
@@ -65,23 +69,8 @@ The code is written in Python 3.6.10. If you don't have Python installed, you ca
 ```bash
   pip install -r requirements.txt
 ```
-**Deployment on Heruko**
 
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually to deploy this project.
-
-__    ss of heruko and link
-
-#
-
-
-The next step would be to follow the instruction given in the Heroku Documentation 
-[Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python)
-to deploy a web app.
-
-
-
-
-
+<br><br>
 ## Run Locally
 
 1.Ensure that you are in the project home directory. Create the machine learning model by running below command -
@@ -101,7 +90,7 @@ By default, flask will run on port 5000.
 
 3.Navigate to URL http://127.0.0.1:8000/ (This local server will be assigned after you run the unicorn command)
 
-
+<br><br>
 
 ## Cleaning the Data
 
@@ -111,7 +100,7 @@ We needed to clean it up so that it was usable for our model.We made the followi
 * Removed the null values
 * Removed the outliers
 
-
+<br><br>
 
 ## Model Building
 
@@ -125,14 +114,14 @@ Import the model(which suits the data most or gives better results) Fit training
 
 Predict w.r.t. 'X_test' (compare with 'Y_test')<br>
 
-<br><br><br>
+<br><br>
 
 ## Regression models score
 MAE: 1176.8211626134876 <br>
 MSE: 4372706.25598775 <br>
 RMSE: 2091.1016847556098 <br>
 
-
+<br><br>
 
 ## Contact
 

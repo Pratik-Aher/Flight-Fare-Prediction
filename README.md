@@ -100,6 +100,13 @@ We needed to clean it up so that it was usable for our model.We made the followi
 
 <br><br>
 
+## Visualization
+
+Graph of Features for better visualization
+<br>
+<img src = '/assets/features.png'>
+
+<br><br>
 ## Model Building
 
 **Fitting Model Using Random Forest**<br>
